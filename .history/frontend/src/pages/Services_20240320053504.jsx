@@ -13,9 +13,9 @@ const Services = () => {
                 key = { index }
                 />
             ))
-        } { " " } <
-        /div>{" "} <
-        /div>{" "} <
+        } <
+        /div> <
+        /div> <
         /section>
     );
 };
